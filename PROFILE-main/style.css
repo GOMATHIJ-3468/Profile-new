@@ -1,0 +1,167 @@
+body{
+    background-color: lightpink;
+}
+#name{
+    color:rgb(236, 12, 236) ;
+    font-size: 40px ;
+    font-weight: bold;
+    padding-right: 3px;
+}
+nav ul{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    list-style: none;
+    font-size: 20px;
+    font-weight: bold;
+    padding: 10px;
+    margin-right: 5px;
+    background-color:lightgreen;
+}
+.link{
+    text-decoration: none;
+    cursor: crosshair;
+    color: blue;
+}
+#Home{
+    background-color: red;
+    color: white;
+    width: 1390px;
+    height: 80px;
+    text-align: center;
+    padding-left: 10px;
+    font-size: 30px;
+
+}
+#image{
+    width:200px;
+    height: 200px;
+    border-radius: 70px;
+    padding-bottom: 1px;
+    padding-right:140px;
+}
+#About{
+display: flex;
+align-items: center;
+padding: 30px;
+color:brown;
+padding-right:-100px ;
+font-size: 25px;
+}
+#qualify{
+    color: violet;
+    text-align: center;
+    padding-left: 200px;
+    font-size: 30px;
+    font-weight: bold;
+    background-color: yellowgreen;
+}
+#tr,td,th{
+    align-items: center;
+    border: 1px solid;
+    margin-left: 500px;
+    background-color:white;
+    border-collapse:collapse;
+    padding:10px;
+    
+}
+#Qualification{
+   align-items: center;
+    border: 1px solid;
+    margin-left: 500px;
+    background-color:white;
+    border-collapse:collapse;
+    padding: 10px;
+}
+#Languages{
+    color:lightblue;
+    font-size:20px;
+    background-color: red;
+    }
+#heading6{
+        background-color:white;
+        color: aqua;
+        font-size: 30px;
+        text-align: center;
+    }
+#lang{
+    color:white;
+    padding-right: 40px;
+    text-align: center;
+    list-style: none;
+}
+#Skills{
+    background-color:rgb(247, 64, 247);
+    width:1390px;
+    height:450px;
+    padding-top:-190px;
+}
+#heading1{
+    font-weight: bold;
+    font-size: 30px;
+    background-color: white;
+    color: rgb(29, 228, 246);
+    text-align: center;
+    padding-top: -50px;
+}
+#personal{
+    font-weight: bold;
+    font-size: 20px;
+    color: white;
+    text-align: center;
+    list-style: none;
+}
+#heading2{
+    font-weight: bold;
+    font-size: 30px;
+    background-color:white;
+    color: rgb(29, 228, 246);
+    text-align: center;
+    padding-top: -90px;
+}
+#professional{
+    font-weight: bold;
+    font-size: 20px;
+    color: white;
+    text-align: center;
+    list-style: none;
+}
+#Contact{
+    background-color:lemonchiffon;
+    text-decoration: none;
+}
+#heading3{
+    font-weight: bold;
+    font-size: 30px;
+    color: brown;
+    background-color: white;
+    padding-left: 500px;
+    }
+    #phone{
+           width: 20px;
+            height: 20px;
+            padding-left: 10px;
+        }
+#insta{
+        width: 20px;
+        height: 20px;
+        padding-left: 10px;
+    }
+#linkedin{
+        width:20px;
+        height:20px;
+        padding-left: 10px;
+    }
+#facebook{
+        width: 20px;
+        height: 20px;
+        padding-left: 10px;
+    }
+#email{
+    width: 20px;
+    height: 20px;
+    padding-left: 10px;
+}
+#last{
+    text-align: center;
+}
